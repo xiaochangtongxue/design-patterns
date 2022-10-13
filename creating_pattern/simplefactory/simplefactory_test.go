@@ -1,4 +1,4 @@
-package creatingpattern
+package simplefactory
 
 import "testing"
 
